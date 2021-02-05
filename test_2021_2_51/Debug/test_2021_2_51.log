@@ -1,0 +1,4 @@
+﻿  test.c
+D:\VSworkspace\test_2021_2_51\test.c(132,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\VSworkspace\test_2021_2_51\test.c(127): warning C4716: “reverse_string”: 必须返回一个值
+  test_2021_2_51.vcxproj -> D:\VSworkspace\test_2021_2_51\Debug\test_2021_2_51.exe
