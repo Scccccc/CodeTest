@@ -1,0 +1,5 @@
+﻿  test.c
+D:\VSworkspace\test_2021_2_6\test.c(41,2): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\VSworkspace\test_2021_2_6\test.c(42,2): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\VSworkspace\test_2021_2_6\test.c(40,1): warning C4047: “初始化”:“int”与“char *”的间接级别不同
+  test_2021_2_6.vcxproj -> D:\VSworkspace\test_2021_2_6\Debug\test_2021_2_6.exe
