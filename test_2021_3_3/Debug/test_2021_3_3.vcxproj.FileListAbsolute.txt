@@ -1,0 +1,2 @@
+D:\VSworkspace\test_2021_3_3\Debug\test_2021_3_3.exe
+D:\VSworkspace\test_2021_3_3\Debug\test_2021_3_3.pdb
